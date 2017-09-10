@@ -7,3 +7,4 @@ git
 github
 ssh
 keys
+brew
