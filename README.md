@@ -1,2 +1,3 @@
-# my-portfolio
-acloud guru portfolio
+# Kappy26
+
+This is for aCloud Guru lesson.
